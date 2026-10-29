@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danet-peinture.vercel.app/sitemap.xml
